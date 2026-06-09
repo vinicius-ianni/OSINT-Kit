@@ -10,6 +10,12 @@ A curated collection of tools for **Open Source Intelligence (OSINT)** — for r
 ![OpenIssues](https://img.shields.io/github/issues/Buddhsen-tripathi/OSINT-Kit)
 ![PullRequest](https://img.shields.io/github/issues-pr/Buddhsen-tripathi/OSINT-Kit)
 
+OSINT Kit is supported by [ScrapingAnt](https://scrapingant.com/?ref=njiwytf).
+
+<a href="https://scrapingant.com/datacenter-proxies?tap_a=167180-c1113f&ref=njiwytf" target="_blank" rel="nofollow">
+  <img src="https://static.tapfiliate.com/69ff8a3d97b37719749164.png" border="0" alt="ScrapingAnt">
+</a>
+
 ## What's inside
 
 The full directory lives on the [site](https://buddhsen-tripathi.github.io/OSINT-Kit/), grouped into:
