@@ -7,12 +7,34 @@
 
   .main-frame {
     --sl-sidebar-width: 0;
-    padding-inline-start: 2rem;
+    --sl-content-inline-start: 0;
+    padding-inline-start: 1.5rem;
+    padding-inline-end: 1.5rem;
   }
 }
 
-/* Narrow the right "On this page" column on large screens for ~75/25 split */
+/*
+  Starlight’s [data-has-sidebar][data-has-toc] layout pins content left
+  (margin-inline: auto 0) as if a left nav still exists. Re-center the
+  content + “On this page” pair as one unit.
+*/
 @media (min-width: 72rem) {
+  .main-frame > .lg\:sl-flex {
+    justify-content: center;
+  }
+
+  [data-has-sidebar][data-has-toc] .main-pane {
+    --sl-content-margin-inline: auto;
+    width: var(--sl-content-width);
+    max-width: 100%;
+    flex: 0 1 var(--sl-content-width);
+  }
+
+  .right-sidebar-container {
+    width: 14rem;
+    flex: 0 0 14rem;
+  }
+
   .right-sidebar {
     width: 14rem;
   }
