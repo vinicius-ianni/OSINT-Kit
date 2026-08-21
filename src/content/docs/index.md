@@ -28,6 +28,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 ## Metadata & File Analysis
 
 - [ExifTool](https://exiftool.org/) — Versatile metadata extraction tool supporting a wide range of file formats including images, videos, and documents.
+- [Metadata Remover Viewer](https://metadataremover.ai/metadata-viewer) — Inspect image and document metadata locally in your browser.
 - [Metagoofil](https://www.kali.org/tools/metagoofil/) — Extract metadata such as author names, software versions, and file paths from publicly available documents (PDF, DOCX, PPTX, etc.).
 - [FOCA](https://github.com/ElevenPaths/FOCA) — Perform large-scale metadata collection and document fingerprinting to reveal sensitive information in public files.
 
