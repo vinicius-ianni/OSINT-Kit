@@ -8,6 +8,7 @@ A curated collection of tools for researchers, security professionals, and hobby
 ## OSINT Aggregator Tools
 
 - [DeepFindMe](https://www.deepfind.me/) — **(Freemium)**
+- [FindMore.Me](https://findmore.me/) - **(Free)**
 - [Analyst Research Tools](https://analystresearchtools.com/) — **(Freemium)**
 - [DigitalDigging](https://digitaldigging.org/osint/) — **(Free)**
 - [Epieos](https://epieos.com/) — **(Freemium)**
